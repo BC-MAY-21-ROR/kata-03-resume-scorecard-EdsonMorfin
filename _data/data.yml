@@ -107,9 +107,15 @@ skills:
       level: 60%
 
     - name: CSS
-      level: 40%
-
+      level: 60%
+    
     - name: GIT
+      level: 40%
+    
+    - name: Ruby
+      level: 40%
+      
+    - name: Ruby on Rails
       level: 40%
 
 # NO MODIFICAR
