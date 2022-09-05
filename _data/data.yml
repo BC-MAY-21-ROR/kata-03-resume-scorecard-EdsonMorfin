@@ -12,7 +12,7 @@ sidebar:
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: edsonpaul2018@gmail.com 
+  email: edson.morfing@gmail.com
   phone: 3141539807 
   website: 
   linkedin: www.linkedin.com/in/edson-paul/
@@ -27,7 +27,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: Advanced # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -74,7 +74,16 @@ educationcomplete:
       Fundamentals of Cloud Computing
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
+
+
 experiences:
+  - role: Data Engineer, Jr
+    time: Jan-Apr 2022
+    company: VALOREO, CDMX
+    details: |
+      -Developed ETLs and Data Pipelines from Amazon and Linio API's using Python, Golang and Google Cloud Platform
+      -Talked with clients, set requirements and estimated time and developed an intern app that fills sheets with data from BigQuery using JavaScript. This app decreased work time from 2 minutes to 10 seconds per page.
+
   - role: Backend Developer, Intern
     time: June-Aug 2021
     company: Rubisco, Sonora
@@ -97,20 +106,20 @@ skills:
     - name: Python
       level: 60%
 
-    - name: Java
-      level: 40%
+    - name: JavaScript
+      level: 60%
 
     - name: SQL
-      level: 20%
+      level: 60%
 
-    - name: HTML
+    - name: Golang
       level: 60%
 
     - name: CSS
       level: 60%
     
     - name: GIT
-      level: 40%
+      level: 80%
     
     - name: Ruby
       level: 40%
