@@ -15,8 +15,8 @@ sidebar:
   email: edson.morfing@gmail.com
   phone: 3141539807 
   website: 
-  linkedin: www.linkedin.com/in/edson-paul/
-  github: https://github.com/EdsonMorfin
+  linkedin: edson-paul
+  github: EdsonMorfin
   gitlab:
   bitbucket:
   twitter: 
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Im a Data Science Student that love to learn new things and solve challenging problems
+    Hi, I'm Edson, my professional title says that Im a Data Science student, My previos work says that I'm a Data Engineer but I like to call myself a problem solver and a eternal student because I love to continously learn things  
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
